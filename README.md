@@ -11,7 +11,8 @@ Excellent communication skills, teamwork and on time project delivery. Seeking a
 ### Education
 ##### Master's of Computer Science in Data Analytics, University of Houston, Texas - December 2019 - GPA 3.89
 ###### Medical Robotics and Imaging Lab, Department of Computer Science
-Thesis: 
+###### Advisor: Dr. Nikolaos V. Tsekos
+Thesis: Generation of Synthetic MRI with Deep Optical Flow Field Estimation for Faster Imaging
 
 ##### Bachelor of Science in Information Technology Engineering, Iran University of Science and Technology - December 2011 - 
 Thesis:
@@ -19,12 +20,12 @@ Thesis:
 
 ### Project
 - Course projects - Stat - Thesis - Computer vision etc
-- [Generation of Synthetic MRI with Deep Optical Flow Field
-Estimation for Faster Imaging - Link to Texas Digital Library](https://uh-ir.tdl.org/bitstream/handle/10657/5576/NEELI-THESIS-2019.pdf?sequence=1&isAllowed=n)
-- [Developed a regression model to analyzed stress effect on microsurgery performance using peri-nasal perspiration data from Methodist hospital. Data preprocessing, statistical analysis, and data visualization by R programming language on JHouston Methodist dataset]([Hosein_Neeli]-Statistical_Methods_in_Research.pdf). 
--	Designed and implemented a deep learning model to [predict movie success based on scripts using Python deep learning and NLP libraries]([Hosein_Neeli]-Movie-Success-Prediction.pdf).
+- Generation of Synthetic MRI with Deep Optical Flow Field
+Estimation for Faster Imaging - [Download link from Texas Digital Library](https://uh-ir.tdl.org/bitstream/handle/10657/5576/NEELI-THESIS-2019.pdf?sequence=1&isAllowed=n)
+- Developed a regression model to analyzed stress effect on microsurgery performance using peri-nasal perspiration data from Methodist hospital. Data preprocessing, statistical analysis, and data visualization by R programming language on Houston Methodist dataset- [Download link]([Hosein_Neeli]-Statistical_Methods_in_Research.pdf)
+-	Designed and implemented a deep learning model to predict movie success based on scripts using Python deep learning and NLP libraries - [Download link]([Hosein_Neeli]-Movie-Success-Prediction.pdf)
 - Evaluated and compared performance of five machine/deep learning based human detection networks: YOLO, cascade classifier (Haar-like features), cascade classifier (local binary patterns), SVM (HOG), Mask R-CNN on INRIA-Person dataset
-- designed and implemented a frequency domain image enhancement software using Python TkInter.
+- designed and implemented a frequency domain image enhancement software using Python TkInter
 
 
 ### Skills
@@ -44,7 +45,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Interests
 Personalized medicine using machine learning models
 
-### Courses
+### Related Courses
+-Statistical Methods in Research
+- Advanced Numerical Analysis
+- Computer Vision
+- Image Processing
+- Machine Learning
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
