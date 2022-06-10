@@ -18,7 +18,8 @@ Thesis:
 
 ### Project
 - Course projects - Stat - Thesis - Computer vision etc
-- Implemented and evaluated a deep learning network for faster MRI by generation of synthetic MRI frames by estimation of optical flow using Python Pytorch, TensorFlow, PIL, OpenCV and Scipy.
+- [Generation of Synthetic MRI with Deep Optical Flow Field
+Estimation for Faster Imaging](https://uh-ir.tdl.org/bitstream/handle/10657/5576/NEELI-THESIS-2019.pdf?sequence=1&isAllowed=n)Implemented and evaluated a deep learning network for faster MRI by generation of synthetic MRI frames by estimation of optical flow using Python Pytorch, TensorFlow, PIL, OpenCV and Scipy.
 - [Developed a regression model to analyzed stress effect on microsurgery performance using peri-nasal perspiration data from Methodist hospital. Data preprocessing, statistical analysis, and data visualization by R programming language on JHouston Methodist dataset]([Hosein_Neeli]-Statistical_Methods_in_Research.pdf). 
 -	Designed and implemented a deep learning model to predict movie success based on scripts using Python deep learning and NLP libraries.
 - Evaluated and compared performance of five machine/deep learning based human detection networks: YOLO, cascade classifier (Haar-like features), cascade classifier (local binary patterns), SVM (HOG), Mask R-CNN on INRIA-Person dataset
