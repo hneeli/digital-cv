@@ -10,6 +10,7 @@ Excellent communication skills, teamwork and on time project delivery. Seeking a
 
 ### Education
 ##### Master's of Computer Science in Data Analytics, University of Houston, Texas - December 2019 - GPA 3.89
+###### Medical Robotics and Imaging Lab, Department of Computer Science
 Thesis: 
 
 ##### Bachelor of Science in Information Technology Engineering, Iran University of Science and Technology - December 2011 - 
