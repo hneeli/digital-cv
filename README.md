@@ -1,7 +1,7 @@
 ## Hosein NEELI
 ### Master in Computer Science - Data Analytics, University of Houston, Texas
 
-Currently working as System Engineer, Master’s degree in Computer Science with thesis in synthetic MRI dataset generation using a deep learning method. Graduated in December 2019 with GPA 3.89 from the University of Houston, Texas. Seking for a PhD position in data science medical????????
+Currently working as System Engineer, Master’s degree in Computer Science with thesis in synthetic MRI dataset generation using a deep learning method. Graduated in December 2019 with GPA 3.89 from the University of Houston, Texas.
 
 Excellent communication skills, teamwork and on time project delivery. Seeking a PhD position in computer science, data science and related fields.
 
@@ -13,7 +13,6 @@ Excellent communication skills, teamwork and on time project delivery. Seeking a
 Thesis: Generation of Synthetic MRI with Deep Optical Flow Field Estimation for Faster Imaging
 
 ##### Bachelor of Science in Information Technology Engineering, Iran University of Science and Technology - December 2011 
-Thesis:
 
 
 ### Project
