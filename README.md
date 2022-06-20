@@ -1,11 +1,9 @@
 ## Hosein NEELI
 ### Master in Computer Science - Data Analytics, University of Houston, Texas
 
-You can use the [editor on GitHub](https://github.com/hneeli/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Currently working as System Engineer, Master’s degree in Computer Science with thesis in synthetic MRI dataset generation using a deep learning method. Graduated in December 2019 with GPA 3.89 from the University of Houston, Texas. Seking for a PhD position in data science medical????????
 
-Excellent communication skills, teamwork and on time project delivery. Seeking a technical position in network and system administration, data science, machine learning, deep learning and data analytics.
+Excellent communication skills, teamwork and on time project delivery. Seeking a PhD position in computer science, data science and related fields.
 
 
 ### Education
@@ -14,7 +12,7 @@ Excellent communication skills, teamwork and on time project delivery. Seeking a
 ###### Advisor: Dr. Nikolaos V. Tsekos
 Thesis: Generation of Synthetic MRI with Deep Optical Flow Field Estimation for Faster Imaging
 
-##### Bachelor of Science in Information Technology Engineering, Iran University of Science and Technology - December 2011 - 
+##### Bachelor of Science in Information Technology Engineering, Iran University of Science and Technology - December 2011 
 Thesis:
 
 
@@ -29,9 +27,9 @@ Estimation for Faster Imaging - [Download link from Texas Digital Library](https
 
 
 ### Skills
-Hands-on experience with embedded systems like Raspbery Pi and UWB boards
+- Hands-on experience with embedded systems like Raspbery Pi and UWB boards
 - Programming Language: Python and R.
-- Libraries: Python scientific libraries, Data Manipulation libraries, Numpy, Matplotlib, Pandas, OpenCV, ggplot
+- Libraries: Python scientific libraries, data manipulation libraries, Numpy, Matplotlib, Pandas, OpenCV, ggplot
 - Deep Learning Platforms: Pytorch, TensorFlow, Keras, Scipy
 - Data Visualization
 - Applied Machine Learning
@@ -43,15 +41,17 @@ Hands-on experience with embedded systems like Raspbery Pi and UWB boards
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Interests
-Personalized medicine using machine learning models
+- Machine Learning and Deep Learning, Computer Vision
+- IoT and enbedded systems
+- Personalized medicine using machine learning models
 
 ### Related Courses
--Statistical Methods in Research
-- Advanced Numerical Analysis
+- Machine Learning
 - Computer Vision
 - Image Processing
-- Machine Learning
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Statistical Methods in Research
+- Advanced Numerical Analysis
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
