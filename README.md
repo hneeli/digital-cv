@@ -1,7 +1,7 @@
 ## Hosein NEELI
 ### Master in Computer Science - Data Analytics, University of Houston, Texas
 
-Currently working as System Engineer, Master’s degree in Computer Science with thesis in synthetic MRI dataset generation using a deep learning method. Graduated in December 2019 with GPA 3.89 from the University of Houston, Texas.
+Currently working as Network/System Engineer, Master’s degree in Computer Science with thesis in synthetic MRI dataset generation using a deep learning method. Graduated in December 2019 with GPA 3.89 from the University of Houston, Texas.
 
 Excellent communication skills, teamwork and on time project delivery. Seeking a PhD position in computer science, data science and related fields.
 
@@ -16,7 +16,6 @@ Thesis: Generation of Synthetic MRI with Deep Optical Flow Field Estimation for 
 
 
 ### Project
-- Course projects - Stat - Thesis - Computer vision etc
 - Generation of Synthetic MRI with Deep Optical Flow Field
 Estimation for Faster Imaging - [Download link from Texas Digital Library](https://uh-ir.tdl.org/bitstream/handle/10657/5576/NEELI-THESIS-2019.pdf?sequence=1&isAllowed=n)
 - Developed a regression model to analyzed stress effect on microsurgery performance using peri-nasal perspiration data from Methodist hospital. Data preprocessing, statistical analysis, and data visualization by R programming language on Houston Methodist dataset- [Download link]([Hosein_Neeli]-Statistical_Methods_in_Research.pdf)
@@ -44,15 +43,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - IoT and enbedded systems
 - Personalized medicine using machine learning models
 
+
 ### Related Courses
 - Machine Learning
+- Statistical Methods in Research
 - Computer Vision
 - Image Processing
-- Statistical Methods in Research
 - Advanced Numerical Analysis
+- Research Methods in Computer Science
+- Advanced Numerical Analysis
+- Software Design
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 ```markdown
@@ -72,10 +73,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hneeli/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
