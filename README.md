@@ -53,6 +53,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Research Methods in Computer Science
 - Advanced Numerical Analysis
 - Software Design
+- Operating Systems
 
 
 
