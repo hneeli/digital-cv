@@ -14,6 +14,10 @@ Thesis: Generation of Synthetic MRI with Deep Optical Flow Field Estimation for 
 
 ##### Bachelor of Science in Information Technology Engineering, Iran University of Science and Technology - December 2011 
 
+### Research Interests
+- Machine Learning and Deep Learning, Computer Vision
+- IoT and enbedded systems
+- Personalized medicine using machine learning models
 
 ### Project
 - Generation of Synthetic MRI with Deep Optical Flow Field
@@ -36,13 +40,7 @@ Estimation for Faster Imaging - [Download link from Texas Digital Library](https
 
 
 ### Experience
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-### Interests
-- Machine Learning and Deep Learning, Computer Vision
-- IoT and enbedded systems
-- Personalized medicine using machine learning models
-
+- Network/System Engineer at I.T. Matters, Inc. Houston, Texas. March 2020 - Present
 
 ### Related Courses
 - Machine Learning
