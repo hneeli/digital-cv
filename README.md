@@ -41,6 +41,7 @@ Estimation for Faster Imaging - [Download link from Texas Digital Library](https
 
 ### Experience
 - Network/System Engineer at I.T. Matters, Inc. Houston, Texas. March 2020 - Present
+- Senior Network Administrator at Fanavaran Computer Systems, Tehran, Iran. March 2012 - October 2017
 
 ### Related Courses
 - Machine Learning
@@ -53,22 +54,8 @@ Estimation for Faster Imaging - [Download link from Texas Digital Library](https
 - Software Design
 - Operating Systems
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Hobbies
+- Doing self-defined IoT projects with Raspberry-Pi
+- Playing tennis, lets play points!
+- Cooking the most delicious persian food
+- Watching and reading about Formula 1 cars, a Mercedes Silver Arrows big fan!
