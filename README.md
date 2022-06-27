@@ -58,4 +58,4 @@ Estimation for Faster Imaging - [Download link from Texas Digital Library](https
 - Doing self-defined IoT projects with Raspberry-Pi
 - Playing tennis, lets play points!
 - Cooking the most delicious persian food
-- Watching and reading about Formula 1 cars, a Mercedes Silver Arrows big fan!
+- Watching and reading about Formula 1 cars, a big fan of Mercedes AMG Petronas team!
