@@ -22,7 +22,7 @@ Thesis: Designing and evaluating a WAN failover link, based on MPLS protocol
 
 ### Project
 - Generation of Synthetic MRI with Deep Optical Flow Field
-Estimation for Faster Imaging - [Download link from Texas Digital Library](https://uh-ir.tdl.org/bitstream/handle/10657/5576/NEELI-THESIS-2019.pdf?sequence=1&isAllowed=n) - The goal is to eliminate the need to re-taking blurry MRI images e.g., frames with motion artifacts by re-creating the frames based on adjacent frames. This will make MR image acquisition faster and easier, especially for the elderly and patients with disabilities.
+Estimation for Faster Imaging - [Download link from Texas Digital Library](https://uh-ir.tdl.org/bitstream/handle/10657/5576/NEELI-THESIS-2019.pdf?sequence=1&isAllowed=n) - The goal is to eliminate the need to re-taking blurry MR images e.g., frames with motion artifacts by re-creating the frames based on adjacent frames. This will make MR image acquisition faster and easier, especially for the elderly and patients with disabilities.
 - Developed a regression model to analyzed stress effect on microsurgery performance using peri-nasal perspiration data from Methodist hospital. Data preprocessing, statistical analysis, and data visualization by R programming language on Houston Methodist dataset- [Download link]([Hosein_Neeli]-Statistical_Methods_in_Research.pdf)
 -	Designed and implemented a deep learning model to predict movie success based on scripts using Python deep learning and NLP libraries - [Download link]([Hosein_Neeli]-Movie-Success-Prediction.pdf)
 -	Participated in “Viper: Vehicle Pose Estimation using Ultra-WideBand Radios” data collection and experiment. - [Download link](https://nsl.cs.uh.edu/papers/uwbviper-dcoss2020.pdf)
